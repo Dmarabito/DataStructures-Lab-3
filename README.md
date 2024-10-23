@@ -1,5 +1,6 @@
+<p>This assignment was about using a provided brute force string matching algorithm and fill in the best and worst case. In addition we time the results.</p>
+<H1>So what follows is some of the questions we were asked about this assignment and my answers.</H1>
 <p>
-In the assignment section of this  Blackboard dropbox include a link to your github and answer the following questions:<br/>
 According to the book, what is Big O for this algorithm?<br/>
 Big O is O(N*M).<br/>
 Did your calculations of elapsedTime align with what the book said about Big O for this brute-force string matching algorithm?<br/>
